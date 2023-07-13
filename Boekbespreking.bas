@@ -1,7 +1,7 @@
 Attribute VB_Name = "Boekbespreking"
 
 Sub BladenVerwijderen()
-
+ 
     Dim strNaam As String
     Dim i As Long
     Dim lngAantalBladen As Long
